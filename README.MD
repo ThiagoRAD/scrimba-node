@@ -1,1 +1,1 @@
-Node.js course
+# The Wild Horizons API
